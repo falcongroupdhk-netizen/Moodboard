@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Moodboard Companion",
+  "description": "Interior design asset companion for uploading high-resolution moodboard assets to Google Drive and syncing structured architectural specs with Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
